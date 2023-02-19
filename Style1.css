@@ -1,0 +1,65 @@
+body {
+	height: 90vh;
+	background-image: url(Next.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+
+.BT {
+	width: 160px;
+	height: 40px;
+	background: #ff7200;
+	border: none;
+	font-size: 18px;
+	font-family: sans-serif;
+	border-radius: 10px;
+	cursor: pointer;
+	right: 200px;
+	transition: .4s ease;
+}
+.BT a {
+	text-decoration: none;
+	color: #000;
+	transition: .3s ease;
+}
+.BT:hover {
+	background-color: #fff;
+
+}
+.BT {
+	position: relative;
+	left: 50px;
+	top: 320px;
+}
+
+
+
+
+
+.BT2 {
+	width: 160px;
+	height: 40px;
+	background: #ff7200;
+	border: none;
+	font-size: 18px;
+	font-family: sans-serif;
+	border-radius: 10px;
+	cursor: pointer;
+	right: 200px;
+	transition: .4s ease;
+}
+.BT2 a {
+	text-decoration: none;
+	color: #000;
+	transition: .3s ease;
+}
+.BT2:hover {
+	background-color: #fff;
+
+}
+.BT2 {
+	position: relative;
+	left: 400px;
+	top: 320px;
+}
